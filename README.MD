@@ -54,6 +54,6 @@ HR departments often struggle to consolidate and visualize data from multiple ar
 
 ## 📬 Contact
 
-Created by **[AQSA AKRAM]**  
-📧 Email: aqsakram00109@gmail.com  
-🔗 LinkedIn: [www.linkedin.com/in/aqsa-akram-779901364]  
+Created by **[Muhammad Usman]**  
+📧 Email: musman00109@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/muhammad-usman-akram-b29685251]  
