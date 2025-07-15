@@ -41,7 +41,10 @@ HR departments often struggle to consolidate and visualize data from multiple ar
 - 📊 **Professional Design**: Dark theme with orange highlights and customized slicers
 
 ---
+## 📷 Dashboard Preview
 
+![Dashboard Screenshot](HR DASHBOARD .png)  
+---
 ## 🛠 How It Works
 
 - Built entirely in Microsoft Excel using:
