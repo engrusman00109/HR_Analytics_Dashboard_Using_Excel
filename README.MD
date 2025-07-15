@@ -43,7 +43,7 @@ HR departments often struggle to consolidate and visualize data from multiple ar
 ---
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](HR DASHBOARD .png)  
+![Dashboard Screenshot](dashboard_preview.png)  
 ---
 ## 🛠 How It Works
 
